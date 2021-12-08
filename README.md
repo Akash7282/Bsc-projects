@@ -9,6 +9,6 @@ unlike CRD. Thus various missing plot techniques can be performed to
 construct the concerned tests which reflects an approximation of the true
 nature the population characteristics, we are interested in. This project
 is mainly focused on investigating numerically how much accurate these
-testing procedures are. We use simulation to visualize and demonstrate
+testing procedures are. Here we use simulation to visualize and demonstrate
 the relation and accuracy of different testing procedure empirically.
 
